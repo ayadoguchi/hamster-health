@@ -1,4 +1,4 @@
-# horoscope
+# hamster-health
 
 > My badass Nuxt.js project
 
@@ -20,5 +20,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# runes_nuxt
-# runes_nuxt
+
