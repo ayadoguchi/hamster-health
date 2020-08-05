@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "fastify": "^1.13.3",
+    "fastify": "^2.15.1",
     "firebase": "^7.17.1",
     "nuxt": "^2.0.0",
     "vuesax": "^4.0.1-alpha.8",
